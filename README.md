@@ -27,7 +27,7 @@ An ultra-lightweight, high-performance developer tool that allows you to write r
        return a + b
    ```
 3. **Highlight** (select) the shorthand text.
-4. Press the global hotkey: `F9`.
+4. Press the global hotkey: `F9 or ctrl+shift+enter`.
 5. The selected text will instantly be replaced with valid code (defaults to Python):
    ```python
    def calculate_sum(a, b):
